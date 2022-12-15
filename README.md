@@ -12,3 +12,8 @@
 #### 破坏单例模式
 * [反序列化](src/singleton/BrokenByDeserialization.java)
 * [反射](src/singleton/BrokenByDeserialization.java)
+### 2、[工厂模式](src/factory)
+* [简单工厂模式](src/factory/simple)
+* [工厂方法模式](src/factory/method)
+* [抽象工厂模式](src/factory/_abstract)
+* [扩展：简单工厂模式+配置文件](src/factory/config)
