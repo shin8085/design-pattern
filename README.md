@@ -17,3 +17,6 @@
 * [工厂方法模式](src/factory/method)
 * [抽象工厂模式](src/factory/_abstract)
 * [扩展：简单工厂模式+配置文件](src/factory/config)
+### 3、[原型模式](src/prototype)
+* [浅拷贝](src/prototype/shallow) （[案例](src/prototype/demo)）
+* [深拷贝](src/prototype/deep)
