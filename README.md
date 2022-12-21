@@ -20,3 +20,6 @@
 ### 3、[原型模式](src/prototype)
 * [浅拷贝](src/prototype/shallow) （[案例](src/prototype/demo)）
 * [深拷贝](src/prototype/deep)
+### 4、[建造者模式](src/builder)
+* [案例](src/builder/demo1)
+* [扩展](src/builder/demo2)
