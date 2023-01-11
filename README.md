@@ -23,3 +23,8 @@
 ### 4、[建造者模式](src/builder)
 * [案例](src/builder/demo1)
 * [扩展](src/builder/demo2)
+## 二、结构型模式
+### 1、[代理模式](src/proxy)
+* [静态代理](src/proxy/static_proxy)
+* [JDK动态代理](src/proxy/jdk)
+* [CGLIB动态代理](src/proxy/cglib_proxy)
