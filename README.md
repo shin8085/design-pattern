@@ -28,3 +28,6 @@
 * [静态代理](src/proxy/static_proxy)
 * [JDK动态代理](src/proxy/jdk)
 * [CGLIB动态代理](src/proxy/cglib_proxy)
+### 2、[适配器模式](src/adapter)
+* [类适配器模式](src/adapter/class_adapter)
+* [对象适配器模式](src/adapter/object_adapter)
