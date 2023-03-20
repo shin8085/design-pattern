@@ -31,3 +31,4 @@
 ### 2、[适配器模式](src/adapter)
 * [类适配器模式](src/adapter/class_adapter)
 * [对象适配器模式](src/adapter/object_adapter)
+### 3、[装饰者模式](src/decorator)
