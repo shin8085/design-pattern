@@ -33,3 +33,4 @@
 * [对象适配器模式](src/adapter/object_adapter)
 ### 3、[装饰者模式](src/decorator)
 ### 4、[桥接模式](src/bridge)
+### 5、[外观模式(门面模式)](src/facade)
