@@ -35,3 +35,4 @@
 ### 4、[桥接模式](src/bridge)
 ### 5、[外观模式(门面模式)](src/facade)
 ### 6、[组合模式(部分整体模式)](src/combination)
+### 7、[享元模式](src/flyweight)
