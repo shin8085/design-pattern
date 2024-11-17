@@ -36,3 +36,5 @@
 ### 5、[外观模式(门面模式)](src/facade)
 ### 6、[组合模式(部分整体模式)](src/combination)
 ### 7、[享元模式](src/flyweight)
+## 三、行为型模式
+### 1、[模板方法模式](src/template)
