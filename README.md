@@ -38,3 +38,4 @@
 ### 7、[享元模式](src/flyweight)
 ## 三、行为型模式
 ### 1、[模板方法模式](src/template)
+### 2、[策略模式](src/strategy)
