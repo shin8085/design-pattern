@@ -10,11 +10,11 @@ public class OrderCommand implements Command {
     /**
      * 厨师（接受者对象）
      */
-    private SeniorChef receiver;
+    private final SeniorChef receiver;
     /**
      * 订单
      */
-    private Order order;
+    private final Order order;
 
     public OrderCommand(SeniorChef receiver, Order order) {
         this.receiver = receiver;
@@ -26,9 +26,7 @@ public class OrderCommand implements Command {
         Integer diningTable = order.getDiningTable();
         System.out.println(order.getDiningTable() + "桌下单");
 
-        order.getFoodDir().forEach((foodName, num) -> {
-            receiver.makeFood(foodName, num);
-        });
+        order.getFoodDir().forEach(receiver::makeFood);
 
         System.out.println(diningTable + "桌制作完成");
     }

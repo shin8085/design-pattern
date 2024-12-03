@@ -1,5 +1,8 @@
 package command;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 订单类
  * 
@@ -15,7 +18,7 @@ public class Order {
     /**
      * 下单的食物和份数
      */
-    private Map<String, Integer> foodDir = new HashMap<>();
+    private final Map<String, Integer> foodDir = new HashMap<>();
 
     public Integer getDiningTable() {
         return diningTable;
