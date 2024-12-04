@@ -40,3 +40,4 @@
 ### 1、[模板方法模式](src/template)
 ### 2、[策略模式](src/strategy)
 ### 3、[命令模式](src/strategy)
+### 4、[责任链模式](src/responsibility)
