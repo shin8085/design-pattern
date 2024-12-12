@@ -42,3 +42,4 @@
 ### 3、[命令模式](src/main/java/strategy)
 ### 4、[责任链模式](src/main/java/responsibility)
 ### 5、[状态模式](src/main/java/state)
+### 6、[观察者模式](src/main/java/observer)
